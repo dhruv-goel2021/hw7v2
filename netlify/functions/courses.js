@@ -86,7 +86,7 @@ exports.handler = async function(event) {
 
     // 🔥 your code for the reviews/ratings goes here
   }
-
+console.log(courseData)
   // return the standard response
   return {
     statusCode: 200,
